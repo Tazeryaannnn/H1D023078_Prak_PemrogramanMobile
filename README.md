@@ -1,7 +1,11 @@
 IDENTITAS
+
 Nama : Ridho Tajrian Bintang
+
 NIM : H1D023078
+
 Shift awal :F
+
 Shift akhir : D
 
 ## Screenshot
